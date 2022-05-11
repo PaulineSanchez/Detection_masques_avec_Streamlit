@@ -1,5 +1,6 @@
 import streamlit as st
 import cv2
+from cv2 import *
 from PIL import Image
 import numpy as np
 import os
