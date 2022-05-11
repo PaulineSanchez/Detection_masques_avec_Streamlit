@@ -13,6 +13,4 @@ numpy==1.21.6
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow-io-gcs-filesystem==0.24.0
-tf-estimator-nightly==2.9.0.dev2022032208
-tf-nightly==2.9.0.dev20220322
 XlsxWriter==1.2.9
